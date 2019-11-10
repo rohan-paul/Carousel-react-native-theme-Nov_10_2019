@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Nov 10 21:16:10 IST 2019
+#Sun Nov 10 22:17:54 IST 2019
 70.path=lib/x86/libfolly_futures.so
 64.base=/home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 64.baseType=DIRECTORY

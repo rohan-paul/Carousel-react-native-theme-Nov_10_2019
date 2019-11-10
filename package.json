@@ -10,9 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@shoutem/ui": "^1.0.3",
+    "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.4"
+    "react-native": "0.61.4",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-snap-carousel": "^3.8.4"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",

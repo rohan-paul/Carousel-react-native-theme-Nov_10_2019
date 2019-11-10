@@ -7,6 +7,7 @@ INJECTED from /home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/sr
 MERGED from /home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [com.facebook.react:react-native:0.61.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/86bf0d683a4d1bce0541bd89c439d29a/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/rohan/.gradle/caches/transforms-2/files-2.1/161d032c02533614b00540ea21b0adb3/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/rohan/.gradle/caches/transforms-2/files-2.1/4155f1e29390b91f2a2ff8172abadf5f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/31f39570adc027c561850b88b6ea7392/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/f9c7dfe3381916a53ccf884de0aba013/AndroidManifest.xml:2:1-9:12
@@ -136,6 +137,8 @@ MERGED from [com.facebook.react:react-native:0.61.4] /home/rohan/.gradle/caches/
 MERGED from [com.facebook.react:react-native:0.61.4] /home/rohan/.gradle/caches/transforms-2/files-2.1/86bf0d683a4d1bce0541bd89c439d29a/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/rohan/.gradle/caches/transforms-2/files-2.1/161d032c02533614b00540ea21b0adb3/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/rohan/.gradle/caches/transforms-2/files-2.1/161d032c02533614b00540ea21b0adb3/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/rohan/.gradle/caches/transforms-2/files-2.1/4155f1e29390b91f2a2ff8172abadf5f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/rohan/.gradle/caches/transforms-2/files-2.1/4155f1e29390b91f2a2ff8172abadf5f/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/rohan/.gradle/caches/transforms-2/files-2.1/31f39570adc027c561850b88b6ea7392/AndroidManifest.xml:5:5-7:41
