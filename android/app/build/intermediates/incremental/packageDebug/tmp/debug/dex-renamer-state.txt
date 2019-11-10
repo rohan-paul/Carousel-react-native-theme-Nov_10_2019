@@ -1,0 +1,4 @@
+#Sun Nov 10 21:16:10 IST 2019
+base.0=/home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
