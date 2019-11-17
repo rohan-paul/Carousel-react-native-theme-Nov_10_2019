@@ -54,7 +54,9 @@ export default class example extends Component {
 
     return (
       <View style={styles.exampleContainer}>
-        <Text style={styles.title}>{`Example ${number}`}</Text>
+        <Text style={number === 1 ? styles.titleWithTopPadding : styles.title}>
+          {`Swiper/Carousel  ${number}`}
+        </Text>
         <Text style={styles.subtitle}>{title}</Text>
         <Carousel
           ref={c => (this._slider1Ref = c)}
@@ -95,7 +97,7 @@ export default class example extends Component {
   momentumExample(number, title) {
     return (
       <View style={styles.exampleContainer}>
-        <Text style={styles.title}>{`Example ${number}`}</Text>
+        <Text style={styles.title}>{`Swiper/Carousel  ${number}`}</Text>
         <Text style={styles.subtitle}>{title}</Text>
         <Carousel
           data={ENTRIES2}
@@ -130,7 +132,7 @@ export default class example extends Component {
           style={[
             styles.title,
             isTinder ? {} : styles.titleDark,
-          ]}>{`Example ${number}`}</Text>
+          ]}>{`Swiper/Carousel  ${number}`}</Text>
         <Text style={[styles.subtitle, isTinder ? {} : styles.titleDark]}>
           {title}
         </Text>
@@ -162,7 +164,7 @@ export default class example extends Component {
           style={[
             styles.title,
             isEven ? {} : styles.titleDark,
-          ]}>{`Example ${number}`}</Text>
+          ]}>{`Swiper/Carousel  ${number}`}</Text>
         <Text style={[styles.subtitle, isEven ? {} : styles.titleDark]}>
           {title}
         </Text>

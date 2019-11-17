@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/home/rohan/codeLap/R-N/General-Portfolio-Building-Nov19/Nov_10_19-my-github-repo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/0d4f9b7c898338ccf5371755a6907536/res/values-sr/values-sr.xml",

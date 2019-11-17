@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rohan/codeLap/R-N/For-General-Portfolio/Nov10/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/home/rohan/codeLap/R-N/General-Portfolio-Building-Nov19/Nov_10_19-my-github-repo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/home/rohan/.gradle/caches/transforms-2/files-2.1/4155f1e29390b91f2a2ff8172abadf5f/res/values-ldltr-v21/values-ldltr-v21.xml",
